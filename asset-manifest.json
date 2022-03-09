@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/travelcompanion/static/js/main.aa6bc799.chunk.js",
+    "main.js.map": "/travelcompanion/static/js/main.aa6bc799.chunk.js.map",
+    "runtime-main.js": "/travelcompanion/static/js/runtime-main.a705a085.js",
+    "runtime-main.js.map": "/travelcompanion/static/js/runtime-main.a705a085.js.map",
+    "static/js/2.2931a7df.chunk.js": "/travelcompanion/static/js/2.2931a7df.chunk.js",
+    "static/js/2.2931a7df.chunk.js.map": "/travelcompanion/static/js/2.2931a7df.chunk.js.map",
+    "index.html": "/travelcompanion/index.html",
+    "static/js/2.2931a7df.chunk.js.LICENSE.txt": "/travelcompanion/static/js/2.2931a7df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a705a085.js",
+    "static/js/2.2931a7df.chunk.js",
+    "static/js/main.aa6bc799.chunk.js"
+  ]
+}
